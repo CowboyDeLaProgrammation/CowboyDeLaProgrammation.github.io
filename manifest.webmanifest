@@ -1,8 +1,8 @@
 {
     "lang": "fr",
     "name": "mon Hei maailma",
-    "description": "mon super hello world",
-    "short_name": "Hello World",
+    "description": "mon super Hei maailma",
+    "short_name": "Hei maailma",
     "scope": "/",
     "start_url": "/",
     "display": "standalone",
